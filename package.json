@@ -16,8 +16,8 @@
   "author": "Asaf Katz",
   "license": "MIT",
   "dependencies": {
-    "@std/esm": "^0.11.0",
-    "chokidar": "^1.7.0",
+    "@std/esm": "^0.19.3",
+    "chokidar": "^2.0.0",
     "electron": "~1.7.8",
     "lodash": "^4.17.4",
     "minimist": "^1.2.0",
